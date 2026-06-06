@@ -6,7 +6,7 @@
 
 - `00_Test_code/` - 运动与控制算法测试脚本
 - `01_Contol_UI/` - GUI 程序文件，当前主界面文件为 `GUI_qt_v0.2.py`
-- `.asset/UI.jpg` - 项目 UI 截图或界面说明
+- `.asset/` - 项目资源文件夹
 
 ## 依赖库
 
@@ -34,8 +34,20 @@
 
 
 
+## 界面预览
+
+<div style="text-align: center;">
+
+![UI预览图](.asset/UI.jpg)
+
+</div>
+
+<div style="text-align: center;">
+<img src=".asset/Hardware.jpg" alt="硬件预览图" style="transform: rotate(-90deg); max-width: 75%; display: block; margin: 0 auto;">
+
+</div> 
+
 ## 说明
 
 - `GUI_qt_v0.2.py` 是当前可运行的 GUI 界面文件。
 - 如果 VS Code 运行时出现环境问题，请先确认右下角 Python 解释器已切换到 `.venv`。
-- `.asset/UI.jpg` 可用于参考界面布局。

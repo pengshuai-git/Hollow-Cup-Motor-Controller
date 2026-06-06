@@ -133,3 +133,4 @@ dmypy.json
 # OS
 Thumbs.db
 .DS_Store
+.Ps
